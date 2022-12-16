@@ -1,8 +1,3 @@
-// угадай персонажа(алиса)
-// суний энтиллект(айти)
-// социальная инжинерия(хакеры)
-
-
 function rectangle(count){
     let rectangleStr = "";
     for (let i = 0; i < count; i++){
@@ -11,4 +6,7 @@ function rectangle(count){
     return rectangleStr;
 }
 console.log(rectangle(4));
-
+//****
+//****
+//****
+//****
